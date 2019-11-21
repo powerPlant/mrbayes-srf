@@ -1,1 +1,1 @@
-Singularity.3.2.7a+ompi-4.0.2
+Singularity.3.2.7a-gpu
